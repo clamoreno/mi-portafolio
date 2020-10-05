@@ -1,65 +1,65 @@
-body{
-    /* background-color: #000000;
-    color: ghostwhite; */
+body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto', sans-serif;
-    font-family: 'Oswald';
-    
+    font-family: 'Oswald'; 
 }
 
-.hero{
+.hero {
     background-image: url(../img/bg_hero.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.header-text{
+.header-text {
     margin-top: 30%;
 }
 
-.header-text-1{
+.header-text-1 {
     font-weight: 200;
     font-size: 3rem;
 }
 
-.header-text-2{
+.header-text-2 {
     font-weight: 600;
     font-size: 3.5rem;
 }
 
-.texto-section{
+.texto-section {
     font-weight: 700;
     font-size: 2rem;
-
-
 }
 
-.logo-xp{
+.logo-xp {
     width: 7rem;
 }
 
-.text-xp{
+.text-xp {
     font-weight: 600;
     font-size: 1.5rem;
 }
 
-.date-xp, .card-text{
+.date-xp, .card-text {
     font-family: 'Open Sans';
     font-weight: 300;
     font-size: 1rem;
 }
 
-.card-title{
+.card-title {
     font-family: 'Oswald';
-    font-size: 400;
+    font-weight: 400;
 }
-.card{
+
+.card {
     border: 0;
 }
 
 i {
+    color: #373A3C;
+}
+
+footer i {
     color: #ffffff;
 }
     
