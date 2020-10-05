@@ -1,4 +1,6 @@
 body{
+    /* background-color: #000000;
+    color: ghostwhite; */
     font-family: 'Open Sans', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto', sans-serif;
@@ -6,7 +8,7 @@ body{
     
 }
 
-.header{
+.hero{
     background-image: url(../img/bg_hero.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -73,7 +75,7 @@ body{
     width: 100%;
     opacity: 0;
     transition: 1s ease;
-    background-color: yellow;
+    background-color: fuchsia;
 }
   
 .card:hover .overlay {
@@ -90,11 +92,13 @@ body{
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     text-align: center;
-  }
+}
 
-  i{
-      color: #ffffff;
-  }
+i {
+    color: #ffffff;
+}
+    
+
 
 @media (min-width: 576px) {
     .header-text-1 {
