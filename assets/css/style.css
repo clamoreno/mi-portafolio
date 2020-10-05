@@ -3,6 +3,7 @@ body{
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-family: 'Oswald';
+    
 }
 
 .header{
@@ -72,7 +73,7 @@ body{
     width: 100%;
     opacity: 0;
     transition: 1s ease;
-    background-color: #008CBA;
+    background-color: yellow;
 }
   
 .card:hover .overlay {
